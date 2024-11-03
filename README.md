@@ -75,16 +75,24 @@ Attendance is recorded for labs and lectures. Two or more absences may lower you
 ---
 
 ## Course Schedule
-| Session | Date   | Topic                                         |
-|---------|--------|-----------------------------------------------|
-| 1       | 8/27   | Introduction: Cloud Concepts (IAAS, PAAS, SAAS) |
-| 2       | 9/3    | Fundamentals: Virtualization, Containers       |
-| 3       | 9/10   | TCP/IP, Intro to Azure                         |
-| 4       | 9/17   | Cloud Fundamentals: AWS                        |
-| 5       | 9/24   | Cloud Capacity, AWS & Azure SLAs               |
-| 6       | 10/1   | Containers & Kubernetes 1                      |
-| 7       | 10/8   | Midterm, Containers & Kubernetes 2             |
-| ...     | ...    | ...                                            |
-| 14      | 12/10  | Final Exam (In-class)                          |
+| Session | Date      | Topic                                                                                   |
+|---------|-----------|-----------------------------------------------------------------------------------------|
+| 1       | 8/27      | Introduction: Compute Network and Storage, IAAS, PAAS, SAAS                             |
+| 2       | 9/3       | Cloud and Networking Technology Fundamentals 1 - Virtualization, Containers, Serverless computing |
+| 3       | 9/10      | Cloud and Networking Technology Fundamentals 2 - TCP/IP, Introduction to Azure, Using Azure - Example |
+| 4       | 9/17      | Cloud and Networking Technology Fundamentals 3, Introduction to AWS                     |
+| 5       | 9/24      | Cloud Capacity Management, AWS and Azure: SLAs and compute resources                    |
+| 6       | 10/1      | Containers and Kubernetes 1                                                             |
+| 7       | 10/8      | Midterm, Containers and Kubernetes 2                                                    |
+|         | 10/15     | FALL BREAK                                                                              |
+| 8       | 10/22     | Containers and Kubernetes 3                                                             |
+| 9       | 10/29     | Serverless computing, Microservices                                                     |
+| 10      | 11/5      | Microservices 2                                                                         |
+| 11      | 11/12     | Cloud security                                                                          |
+| 12      | 11/19     | DevOps and Automation                                                                   |
+|         | 11/26     | THANKSGIVING BREAK                                                                      |
+| 13      | 12/3      | Hybrid Clouds & Edge Computing, Cloud technology trends, FinOps                         |
+| 14      | 12/10     | Final exam (In class)                                                                   |
 
-> **Note:** Check Blackboard for updates on assignments.
+
+> **Note:** This course in progress
